@@ -2,7 +2,7 @@
 *.d
 
 # Compiled Object files
-*.slo
+*.slo∑
 *.lo
 *.o
 *.obj
@@ -31,3 +31,4 @@
 *.out
 *.app
 
+build
